@@ -7,3 +7,5 @@ This code composes of the Trigram Language Model and different smoothing methods
 ### Cky Parser
 The Probabilistic Context Free Grammar (PCFG) syntactic parser build from the cky algorithm.
 
+### Image Captioning
+
